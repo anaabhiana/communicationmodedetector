@@ -19,7 +19,6 @@ pip install torch torchvision torchaudio
 
 4.	Verify Installation:
 python -c "import torch; print(torch.__version__)"
- # it should show the version 
 
 5.	Install Dependencies:
 pip install -r requirements.txt
