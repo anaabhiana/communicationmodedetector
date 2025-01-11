@@ -3,16 +3,14 @@ This project is designed for multi-label classification using a BERT model. It e
 
 
 
-## 🧑‍💻 Setup Instructions:
+## 🧑‍💻 Setup Instructions:You need to run all of these command from project root directory 
 1. **Create Virtual Environment:** 
-## You need to run all of these command from project root directory   
 
 If Python 3.11 is not installed, you can install it using Homebrew (for macOS):
  brew install python@3.11   
 
 2.	Create a Virtual Environment with Python 3.11:
- python3.11 -m venv venv
- # Mac  
+ python3.11 -m venv venv 
  source venv/bin/activate 
 
 
